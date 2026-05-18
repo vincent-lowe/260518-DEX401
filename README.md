@@ -7,10 +7,13 @@ vlowe@salesforce.com
 -------------------------------------------------------------------------------------------------------------------
 Trailhead Academy:						https://trailheadacademy.salesforce.com/my-learning
 
-
 Salesforce Mimeo:							https://salesforce.mimeo.digital/MuleSoft
 
 eBook Redemption Key:					USAC8RWQ1SWB
+
+Virtual Machine Login: https://use.cloudshare.com/Class/db484
+
+Passphrase: Vikram the Lively Tiger
 
 -------------------------------------------------------------------------------------------------------------------
 Survey Link:									https://www.research.net/r/trailheadacademy
