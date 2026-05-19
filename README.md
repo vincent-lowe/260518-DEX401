@@ -65,5 +65,6 @@ Einstein for Anypoint Code Builder: https://videos.mulesoft.com/watch/Z3Xzk8RFds
 |Just Dropped In (To See What Condition My Condition Was In)|Willie Nelson||
 |Gilligan's Island|TV Theme Players||
 |My Walking Stick|Leon Redbone||
-|The Hitter|Mark Erelli||
+|The Hitter|Mark Erelli
+|Smooth Criminal|Luca Stricagnoli|Michael Jackson cover|
 
