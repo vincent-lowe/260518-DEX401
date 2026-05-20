@@ -69,4 +69,7 @@ Einstein for Anypoint Code Builder: https://videos.mulesoft.com/watch/Z3Xzk8RFds
 |Smooth Criminal|Luca Stricagnoli|Michael Jackson cover|
 |I Was Doing All Right|Louis Armstrong||
 |Love and Happiness|Al Green||
+|City of New Orleans|Arlo Guthrie||
+|Hotel California|Moyun|Played on a traditional Chinese instrument|
+
 
