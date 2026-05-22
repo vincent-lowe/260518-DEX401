@@ -27,11 +27,19 @@ Class System Setup (pre-class): https://trailhead.salesforce.com/help?article=Co
 Advanced REST Client:
 https://github.com/advanced-rest-client/arc-electron/releases/tag/v17.0.9
 
+Postman:
+https://www.postman.com/downloads/
+
 Self paced course: 
 https://trailhead.salesforce.com/users/strailhead/trailmixes/getting-started-with-anypoint-platform-dex-401
 
-Postman:
-https://www.postman.com/downloads/
+-------------------------------------------------------------------------------------------------------------------
+
+Kyle Burke on Error Handling:
+https://blogs.mulesoft.com/dev-guides/how-to-tutorials/mule4-error-handling/
+
+Vincent's Blog
+https://techwhine.panreality.com/
 
 Help:
 https://help.mulesoft.com/
@@ -78,5 +86,6 @@ Einstein for Anypoint Code Builder: https://videos.mulesoft.com/watch/Z3Xzk8RFds
 |Charlie Dunn|Jeffy Jeff Walker||
 |Can't Let Go|Lucinda Williams||
 |Here We Go Again|Ray Charles and Lucinda Williams|Genius Loves Company|
+|Feeling Good|Nina Simone||
 
 
